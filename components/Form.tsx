@@ -13,10 +13,11 @@ const LANGUAGES = [
   "English",
   "French",
   "German",
-  "Persian", 
+  "Persian",
   "Malay",
   "Spanish",
   "Turkish",
+  "Portuguese (BR)",
 ];
 
 const readFileContents = async (file: File): Promise<string> => {
